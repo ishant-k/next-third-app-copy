@@ -5,8 +5,8 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Create Next App</title>
         <meta name="google-site-verification" content="2rEb2Fi3D2UcWy8buxLnvPVecn8m0ZiO0k3ilNf4oM4" />
+        <title>Create Next App</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
